@@ -1,0 +1,4 @@
+set -o vi
+alias vim=nvim
+export PATH=$PATH:/home/cobust/work/ide/clion-2023.1.1/bin
+export PATH=$PATH:/home/cobust/work/ide/pycharm-2023.1/bin

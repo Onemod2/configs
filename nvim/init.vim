@@ -3,6 +3,7 @@ set encoding=utf-8
 set number
 set noswapfile
 set scrolloff=7
+set clipboard+=unnamedplus " common copy buffer
 
 set tabstop=2
 set softtabstop=2

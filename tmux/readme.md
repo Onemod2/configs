@@ -1,1 +1,1 @@
-
+source ~/.tmux.conf
